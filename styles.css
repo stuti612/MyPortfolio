@@ -15,6 +15,14 @@ hr{
     margin: 2rem 0;
 }
 
+.paragraph{
+    text-align: center;
+}
+
+.paragraph1{
+    text-align: justify;
+}
+
 /* container */
 .container{
     padding-left: 1rem;
@@ -42,6 +50,12 @@ hr{
     color: var(--primary-color);
     border-radius: 0.5rem;
     border: 1px solid var(--primary-color);
+}
+.button{
+    margin-left: 40%;
+}
+.pri{
+    margin-left: 35%;
 }
 
 /* lists */
@@ -120,4 +134,7 @@ hr{
 }
 .footer ul{
     padding-inline-start: 0px;
+}
+.pro-footer{
+    margin-top: 2rem;
 }
