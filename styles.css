@@ -57,6 +57,9 @@ hr{
 .pri{
     margin-left: 35%;
 }
+.read{
+    color: var(--primary-color);
+}
 
 /* lists */
 .list-non-bullet{
@@ -137,4 +140,11 @@ hr{
 }
 .pro-footer{
     margin-top: 2rem;
+}
+
+/* Images */
+.blogImg{
+    max-width: 400px;
+    margin: auto;
+    padding-left: 18%;
 }
